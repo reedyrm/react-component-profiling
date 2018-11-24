@@ -1,0 +1,49 @@
+Run 1 (20 samples):
+Simple Component (Mount),363,500,2536
+Simple Component (Update),183,246,737
+Simple Component (Unmount),134,175,339
+Simple Pure Component (Mount),360,403,671
+Simple Pure Component (Update),188,223,473
+Simple Pure Component (Unmount),126,159,258
+Simple Functional Component (Mount),330,367,464
+Simple Functional Component (Update),172,208,487
+Simple Functional Component (Unmount),119,151,193
+Simple Memoized Functional Component (Mount),315,405,658
+Simple Memoized Functional Component (Update),161,180,360
+Simple Memoized Functional Component (Unmount),128,141,208
+
+Run 2 (20 samples):
+Simple Component (Mount),374,517,2486
+Simple Component (Update),186,234,666
+Simple Component (Unmount),151,167,271
+Simple Pure Component (Mount),367,435,647
+Simple Pure Component (Update),188,224,431
+Simple Pure Component (Unmount),134,159,219
+Simple Functional Component (Mount),342,370,484
+Simple Functional Component (Update),182,217,377
+Simple Functional Component (Unmount),141,195,656
+Simple Memoized Functional Component (Mount),330,531,3012
+Simple Memoized Functional Component (Update),158,175,365
+Simple Memoized Functional Component (Unmount),109,133,243
+
+
+Standalone Runs (20 samples):
+
+Simple Component (Mount),367,512,2574
+Simple Component (Update),185,233,690
+Simple Component (Unmount),133,170,290
+
+
+Simple Pure Component (Mount),371,521,2754
+Simple Pure Component (Update),191,263,776
+Simple Pure Component (Unmount),133,164,276
+
+
+Simple Functional Component (Mount),366,494,2402
+Simple Functional Component (Update),188,238,704
+Simple Functional Component (Unmount),142,168,288
+
+
+Simple Memoized Functional Component (Mount),332,387,778
+Simple Memoized Functional Component (Update),179,208,382
+Simple Memoized Functional Component (Unmount),124,159,253
